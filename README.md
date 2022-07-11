@@ -1,4 +1,4 @@
-## Data Warehouse For e commerce in HIVE using AWS
+# Data Warehouse For e commerce in HIVE using AWS
 
 ![Structure](https://user-images.githubusercontent.com/107995802/177046809-610150a6-d069-462a-862a-31a9b09f6fa1.jpg)
  
